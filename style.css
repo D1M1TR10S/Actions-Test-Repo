@@ -1,0 +1,24 @@
+body {
+    font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 50px;
+}
+  
+a {
+    color: #00b7ff;
+}
+
+#header {
+    text-align:center;
+    color: #0969DA;
+}
+
+#dojocat {
+    width: 360px;
+}
+
+#dojocat-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
